@@ -29,87 +29,9 @@ const d = {
 		/*=================================================================================*/	
 		{
 		"vids": [
-				{
-					"user": "MichaelReeves",
-					"link": "https://youtu.be/PpeFax-Obxw",
-					"percent": 100,
-					"hz": "288hz"	
-				},
-			        {
-					"user": "GregoryHouse",
-					"link": "https://youtu.be/3lKZcAwgFkA",
-					"percent": 100,
-					"hz": "144hz"	
-				},
-			 	{
-					"user": "Aassbll",
-					"link": "https://youtu.be/BVkGPNaIRCc",
-					"percent": 100,
-					"hz": "60hz"	
-				},
-				{
-					"user": "Lawnmower",
-					"link": "https://youtu.be/ok95rc5aFVg",
-					"percent": 100,
-					"hz": "288hz"	
-				},
-				{
-					"user": "Kobra456",
-					"link": "https://www.youtube.com/watch?v=t9-LIScKu_0",
-					"percent": 100,
-					"hz": "144hz"	
-				},
-			 	{
-				       "user": "Ryclix",
-				       "link": "https://www.youtube.com/watch?v=EPbbFGUU_Bo&feature=youtu.be&t=1440s",
-				       "percent": 100,
-				       "hz": "288hz"
-			       },
-				{
-				       "user": "Kapinapi",
-				       "link": "https://www.youtube.com/watch?v=p05WatZdcWE&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-				{
-					"user": "Sazix",
-					"link": "https://www.youtube.com/watch?v=7LjgiyLfFoQ&feature=youtu.be",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "HugoHMF",
-					"link": "https://www.youtube.com/watch?v=lWdnqgLkV2o&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "FigTheCat",
-					"link": "https://youtu.be/GMZIG4oqF6Q",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lelzi",
-					"link": "https://youtu.be/vzWqWP1qufA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Derek46",
-					"link": "https://www.youtube.com/watch?v=TlgA60YtZbs",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "Amza",
-					"link": "https://www.youtube.com/watch?v=FQ0KpCPbA_4",
-					"percent": 100,
-					"hz": "300hz"
-				},
 			],
-                       "name": "Shitty Plasma Pulse Finale",
-                       "author": "Acidius and Aassbll [Acidius]",
+                       "name": "Sonic Wave Rebirth",
+                       "author": "axyb",
                        "more": "none",
                        "id": 64156354,
                        "pass": "533053",
