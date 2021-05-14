@@ -280,7 +280,7 @@ const d = {
 			"more": "none",
 			"id": 27379546,
 			"pass": "Not Copyable",
-			"percentToQualify": 49,
+			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=EgjWa1ieNvs",
 			"key": 18
 		},
