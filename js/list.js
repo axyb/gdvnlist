@@ -147,20 +147,20 @@ const d = {
 		{
 		        "vids": [
 				{
-					"user": "Korvak",
-					"link": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
+					"user": "Soulsilver Jr.",
+					"link": "https://www.youtube.com/watch?v=n9UPVFpTFN4",
 					"percent": 100,
-					"hz": "Bypass"
+					"hz": "Mobile"
 				},
 
 		],
                        "name": "Audio Expulsion",
-                       "author": "Soulsilver Jr.",
+                       "author": "Korvak",
                        "more": "none",
                        "id": 48679353,
                        "pass": "276943",
                        "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=n9UPVFpTFN4",
+                       "verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
                        "key": 11
                 },
 		/*=================================================================================*/
