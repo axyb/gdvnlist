@@ -501,7 +501,7 @@ const d = {
 				{
 					"user": "TheRealWind",
 					"link": "https://www.youtube.com/watch?v=DNjoVPqoD5c",
-					"percent": 70,
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
