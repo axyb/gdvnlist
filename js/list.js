@@ -48,7 +48,7 @@ const d = {
                        "more": "none",
                        "id": 26681070,
                        "pass": "112516",
-                       "percentToQualify": 50,
+                       "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=OU7EftyQqk4",
                        "key": 3
                 },
@@ -61,7 +61,7 @@ const d = {
                        "more": "none",
                        "id": 49576382,
                        "pass": "210317",
-                       "percentToQualify": 50,
+                       "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=ZCNLM_yB9vU",
                        "key": 4
                 },
@@ -230,7 +230,7 @@ const d = {
 			"more": "none",
 			"id": 51791710,
 			"pass": "Free copy",
-			"percentToQualify": 50,
+			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=N2A4ReGtjyE",
 			"key": 16
 		},
@@ -621,7 +621,7 @@ const d = {
 					"user": "reeseye",
 					"link": "https://www.youtube.com/watch?v=gmz1ZytQxmw",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "Bypass"
 				},
 			],
 			"name": "Audio Extraction",
