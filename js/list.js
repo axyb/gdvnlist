@@ -1417,7 +1417,7 @@ const d = {
 					"user": "reeseye",
 					"link": "https://www.youtube.com/watch?v=V5VRsp3ZBlk",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Bypass"
 				},
 				{
 					"user": "Hito73",
