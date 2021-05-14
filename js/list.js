@@ -1303,7 +1303,7 @@ const d = {
 					"user": "Guest3s",
 					"link": "https://www.youtube.com/watch?v=eAO0X8QUvME",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "ICE Carbon Diablo X",
