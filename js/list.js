@@ -985,7 +985,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "Tu2rus GD",
+					"user": "Tu2rusGD",
 					"link": "https://www.youtube.com/watch?v=rnMrPEaegn8",
 					"percent": 100,
 					"hz": "144hz"
@@ -996,6 +996,7 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+			],
 			"name": "HyperSonic",
 			"author": "ViPriN and more [MagnusVN]",
 			"more": "Dudex, Serponge, Vlacc, Rustam, nasgubb, ZenthicAlpha, ViPriN, Panman, Evasium, Etzer, Terron, Manix648",
@@ -1004,6 +1005,283 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=hPwRVndqZh8",
 			"key": 56
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+				       "user": "gbaktak",
+				       "link": "https://www.youtube.com/watch?v=tNrdyiqGbn0",
+				       "percent": 100,
+				       "hz": "Bypass"
+			       },
+				{
+					"user": "axyb",
+					"link": "https://www.youtube.com/watch?&v=Vtm21dKEnrQ",
+					"percent": 100,
+					"hz": "Bypass"
+				}, 
+				{
+					"user": "Gileter247",
+					"link": "https://www.youtube.com/watch?v=Wxxychl83sg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "phucngo",
+					"link": "https://youtu.be/_Z1HqjH6rec?fbclid=IwAR22C8_cs5pvr5jTfqVYOjGJICqcCXr6D8WSW_g0wMR90SyowClilL9aB7s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ItzTritiumVN",
+					"link": "https://www.youtube.com/watch?v=jf-2JeioVtk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealWind",
+					"link": "https://youtu.be/cUVdBj22TZA?fbclid=IwAR0_yNc08rBqkAW1YUba_6z9jO0VAorFuaZpCwOyprChomlaRZlV-8PukJE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Acu",
+			"author": "neigefeu [Aquatic]",
+			"more": "none",
+			"id": NaN,
+			"pass": "idk lol",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=T2GZD9t4WKc",
+			"key": 57
+		},
+		/*=================================================================================*/
+				                {
+			"vids": [
+			],
+			"name": "Napalm",
+			"author": "Marwec and more [MagnusVN]",
+			"more": "more",
+			"id": NaN,
+			"pass": "remind me to update this later",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Bp9hnWBiXsc",
+			"key": 58
+		},
+		
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "MagnusVN",
+					"link": "https://www.youtube.com/watch?v=jXYYdxbmtNA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "CaustiX",
+					"link": "https://www.youtube.com/watch?v=IvOw53WCRiU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=cZDbQd7DYDk&t=68s",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "axyb",
+					"link": "https://youtu.be/2attxi4-u_Y",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ItzStardust",
+					"link": "https://www.youtube.com/watch?v=4hYSfSAaxm0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Cataclysm",
+			"author": "Ggb0y [Shihotori]",
+			"more": "none",
+			"id": 3979721,
+			"pass": "666777",
+			"percentToQualify": 77,
+			"verificationVid": "http://www.youtube.com/watch?v=2XrDHdDnYFI",
+			"key": 59
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Aquatic",
+					"link": "https://youtu.be/LxvA1XBliUY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Longinus",
+					"link": "https://youtu.be/9JC90oGtbZ8",
+					"percent": 100,
+					"hz": "75hz"
+				},
+			],
+			"name": "Thanatophobia",
+			"author": "Artumanka and more [MagnusVN]",
+			"more": "artu and a few more guys idk",
+			"id": NaN,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/eTySY7UHNlo",
+			"key": 60
+		},
+		/*=================================================================================*/
+				{
+			"vids": [
+			],
+			"name": "Cosmic Calamity",
+			"author": "Lumpy and more [Soulsilver Jr.]",
+			"more": "Lumpy, Doodloo, Viceroy, TheDevon, AbstractDark, Rustam, Cinereal, Willflame, Fimatic, JustJoking, KrmaL, Twoots, Musikbike, Cheeseguy, GDSpeed, Shocksidian, Skybound, nasgubb, Sooop, QJrocks, MisterM",
+			"id": 21256194,
+			"pass": "343202",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=m8SUlxOHorA",
+			"key": 61
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Optic Daydream",
+			"author": "SpiceBerry [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=uf95Dq3-yHw",
+			"key": 62
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "augii",
+					"link": "https://www.youtube.com/watch?v=gut9ThgQFtk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+				       "user": "Aquatic",
+				       "link": "https://www.youtube.com/watch?v=9NGaEPZEums",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			],
+			"name": "Excessive Compliment",
+			"author": "Pennutoh [MagnusVN]",
+			"more": "none",
+			"id": 36089851,
+			"pass": "212541",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=cdHfPvFY17E",
+			"key": 63
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "MagnusVN",
+					"link": "https://www.youtube.com/watch?v=wQb2xVov4e4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Hito73",
+					"link": "https://www.youtube.com/watch?v=enxSxEPXLrI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SkrisGD",
+					"link": "https://www.youtube.com/watch?v=GatZF1ivy3M",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Aquatic",
+					"link": "https://www.youtube.com/watch?v=AmK82b1y71w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Anicon",
+					"link": "https://www.youtube.com/watch?v=AokF1a6ZSs4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Es Dilar Nos",
+			"author": "Mulpan and Angelbaton [SharksVN]",
+			"more": "none",
+			"id": 45023719,
+			"pass": "011020",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=BcWKpb8UenY",
+			"key": 64
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Ferrum Frenzy",
+			"author": "Xinpa and more [TheRealNoobVN]",
+			"more": "none",
+			"id": NaN,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=VB4LuMBqpoU",
+			"key": 65
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "The Ultimate Phase",
+			"author": "Andromeda and more [CaustiX]",
+			"more": "ZenthicAlpha, Andromeda, UserMatt18, CreepyDash, GuitarHeroStyles, ViPriN, Tygrysek, WOOGI1411, Zobros, Findexi, Crack, Loogiah, MaJackO, Cyclic, Giron",
+			"id": 7174110,
+			"pass": "no copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=CowlnPUIgQ8",
+			"key": 66
+		},
+		/*=================================================================================*/				  {
+			"vids": [ 
+			],
+			"name": "Ulon",
+			"author": "OliSW and more [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=hKu_HZ7zFe0&t=28s",
+			"key": 67
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Dảk RainBow Rebirth",
+			"author": "Knobbelboy [CaustiX]",
+			"more": "none",
+			"id": 17217389,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=9WDBYGW2A6A",
+			"key": 68
 		},
 		/*=================================================================================*/
 	
