@@ -193,13 +193,13 @@ const d = {
 		{
 			"vids": [
 			],
-			"name": "motherfucker",
-			"author": "ArcticFoxGD [Kobra456]",
+			"name": "Shock Therapy",
+			"author": "MagnusVN",
 			"more": "none",
-			"id": 64261190,
+			"id": 57121503,
 			"pass": "Free to copy",
-			"percentToQualify": 61,
-			"verificationVid": "https://www.youtube.com/watch?v=ve3rcO8D4Ns",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Mdxo3a1STxQ",
 			"key": 14
 		},
 		/*=================================================================================*/
