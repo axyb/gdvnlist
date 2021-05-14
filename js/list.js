@@ -98,7 +98,7 @@ const d = {
 					"user": "CaustiX",
 					"link": "https://www.youtube.com/watch?v=y2fAkpJlRSs",
 					"percent": 78,
-					"hz": "Bypass"
+					"hz": "144hz"
 				},
 			{
 					"user": "reeseye",
