@@ -842,13 +842,14 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cA86M4I98YM",
 			"key": 49
-		},/*=================================================================================*/
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 			],
 			"name": "SUBVERSIVE",
 			"author": "Snowr33de and more [CaustiX]",
-			"more": "Disp, Disappear, UltimateGuy, Vird, Sl@v.ik, Sightorld, XCore, RespectVG, MUFF1N, Namtar, Snowr33de, ChaSe",
+			"more": "Disp, Disappear, UltimateGuy, Vird, Slavik, Sightorld, XCore, RespectVG, MUFF1N, Namtar, Snowr33de, ChaSe",
 			"id": 20937583,
 			"pass": "410610",
 			"percentToQualify": 100,
@@ -873,7 +874,7 @@ const d = {
 			],
 			"name": "CYCLONE",
 			"author": "Bianox and more [augii]",
-			"more": "HelpegaSUS!, kDarko, Sequex, Zero, Enlex, Voltex, Bianox, Zipixbox, Sxap, Arceus4, Jenkins GD",
+			"more": "Helpegasú, kDarko, Sequex, Zero, Enlex, Voltex, Bianox, Zipixbox, Sxap, Arceus4, Jenkins GD",
 			"id": 54917442,
 			"pass": "142536",
 			"percentToQualify": 100,
