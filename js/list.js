@@ -62,7 +62,7 @@ const d = {
                        "id": 49576382,
                        "pass": "210317",
                        "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=RL-c3PM4uhk",
+                       "verificationVid": "https://www.youtube.com/watch?v=ZCNLM_yB9vU",
                        "key": 4
                 },
         /*=================================================================================*/
@@ -822,7 +822,7 @@ const d = {
 				},
 			],
 			"name": "Incipient",
-			"author": "MagnusVN",
+			"author": "Jenkins [MagnusVN]",
 			"more": "none",
 			"id": 32688321,
 			"pass": "420420 weed lmfao xd ._.",
@@ -1282,6 +1282,195 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=9WDBYGW2A6A",
 			"key": 68
+		},
+		
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "axyb",
+					"link": "https://www.youtube.com/watch?v=7bESuqKyWe8",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=EIF3nQ-cj4A",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "Guest3s",
+					"link": "https://www.youtube.com/watch?v=eAO0X8QUvME",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "ICE Carbon Diablo X",
+			"author": "Roadbose [CaustiX]",
+			"more": "none",
+			"id": 814678,
+			"pass": "Not Copyable",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=nOz-kQcGfrs",
+			"key": 69
+		},
+		/*=================================================================================*/
+		{
+			"vids": [			
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=MYZ2pGtUDCU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Crimson Clutter",
+			"author": "RedUniverse [reeseye]",
+			"more": "none",
+			"id": 9700312,
+			"pass": "bé tập đếm từ 1 đến 6",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=YESeJ2Tu8Ic",
+			"key": 70
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "NecroDymanix",
+			"author": "HelpegaSUS! [Spidebot]",
+			"more": "none",
+			"id": 33383668,
+			"pass": "010517",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=G8HeSwvGLfc",
+			"key": 71
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],	
+			"name": "Kurumi City",
+			"author": "xnail [CaustiX]",
+			"more": "none",
+			"id": 15845254,
+			"pass": "159632",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=cdG4Xh6GR2o",
+			"key": 72
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                        "user": "reeseye",
+                                        "link": "https://www.youtube.com/watch?v=FD23_xGY4Qk",
+                                        "percent": 100,
+                                        "hz": "Bypass"
+                                },
+			],	
+			"name": "Galactic Fragility",
+			"author": "TeamSmokeWeed [Soulsilver Jr.]",
+			"more": "none",
+			"id": 9834617,
+			"pass": "No Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Fv0pugUZu_0&t=3s",
+			"key": 73
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                        "user": "Spidebot",
+                                        "link": "https://www.youtube.com/watch?v=RXIYrWcgh6s",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+                                },
+			],
+			"name": "Future Circles",
+			"author": "KeiAs [Soulsilver Jr.]",
+			"more": "none",
+			"id": 21306256,
+			"pass": "159753",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=YXZ3vr1MHdk",
+			"key": 74
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=V5VRsp3ZBlk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Hito73",
+					"link": "https://youtu.be/juS9M1jZgLQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Aquatic",
+					"link": "https://www.youtube.com/watch?v=QZAArTnHT8c&t=67s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Quest for Perfection",
+			"author": "LazerBlitz [MagnusVN]",
+			"more": "nah",
+			"id": 21952243,
+			"pass": "369741",
+			"percentToQualify": NaN,
+			"verificationVid": "https://www.youtube.com/watch?v=dZtQRRQvO88",
+			"legacykey": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "HyperVN",
+					"link": "https://www.youtube.com/watch?v=Z-E_EfbVK_0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+                                       "user": "Aquatic",
+                                       "link": "https://www.youtube.com/watch?v=ZJULCxBCys0",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
+				{
+					"user": "Rengo",
+					"link": "https://www.youtube.com/watch?v=-Up9fnP-NKE",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "ItzStardust",
+					"link": "https://www.youtube.com/watch?v=s6ChWsXtAOs",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "Anicon",
+					"link": "https://www.youtube.com/watch?v=ETkih-6XTVY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Leyak",
+			"author": "EnZore and more [Guest3s]",
+			"more": "none",
+			"id": NaN,
+			"pass": "=",
+			"percentToQualify": NaN,
+			"verificationVid": "https://www.youtube.com/watch?v=dLgc42GL3VM",
+			"legacykey": 0
 		},
 		/*=================================================================================*/
 	
