@@ -9,7 +9,7 @@ const d = {
                        "more": "Quasar, Panman, Namtar, nikroplays, Havok, Wabbit, Rustam, Xaro, Terron, Willy5000, TMNGaming, Manix648, nwolc, Minesap, non4med, knobbelboy",
                        "id": 42584142,
                        "pass": "121296",
-                       "percentToQualify": 100,
+                       "percentToQualify": 42,
                        "verificationVid": "https://www.youtube.com/watch?v=YUooZ4KkUiQ",
                        "key": 0
 		},
@@ -22,7 +22,7 @@ const d = {
                        "more": "Tsukifuto, Vapen, 123ev4n, Lqah, Cyber, YakobNugget, Nahuel2998, Spade, CreatorSruj, SlimJim, MaxiKD, Splash, Nemphis, WHErwin, BananaMuffin, Eclipsed, AlexPG, Logic",
                        "id": 40292513,
                        "pass": "417236",
-                       "percentToQualify": 100,
+                       "percentToQualify": 43,
                        "verificationVid": "https://www.youtube.com/watch?v=gackBWKtaRc",
                        "key": 1
                 },
@@ -35,7 +35,7 @@ const d = {
                        "more": "none",
                        "id": 68688849,
                        "pass": "Free To Copy",
-                       "percentToQualify": 100,
+                       "percentToQualify": 49,
                        "verificationVid": "https://www.youtube.com/watch?v=z9meMJ4JH6s",
                        "key": 2
                 },
@@ -48,7 +48,7 @@ const d = {
                        "more": "none",
                        "id": 26681070,
                        "pass": "112516",
-                       "percentToQualify": 100,
+                       "percentToQualify": 50,
                        "verificationVid": "https://www.youtube.com/watch?v=OU7EftyQqk4",
                        "key": 3
                 },
@@ -61,7 +61,7 @@ const d = {
                        "more": "none",
                        "id": 49576382,
                        "pass": "210317",
-                       "percentToQualify": 100,
+                       "percentToQualify": 50,
                        "verificationVid": "https://www.youtube.com/watch?v=ZCNLM_yB9vU",
                        "key": 4
                 },
@@ -74,7 +74,7 @@ const d = {
                        "more": "none",
                        "id": 58825144,
                        "pass": "0007",
-                       "percentToQualify": 100,
+                       "percentToQualify": 40,
                        "verificationVid": "https://www.youtube.com/watch?v=bMRn5JziLFI",
                        "key": 5
                 },
@@ -87,7 +87,7 @@ const d = {
                        "more": "Giron, ViPriN, AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, weoweoteo, Anthrax, AbstractDark, Aeidux, Vermillion, Zelda, Michigun, Luneth, Hinds, Evasium, Csx42gaming, Funnygame, Riot, xcy7",
                        "id": 28220417,
                        "pass": "Not Copyable",
-                       "percentToQualify": 100,
+                       "percentToQualify": 51,
                        "verificationVid": "https://www.youtube.com/watch?v=5H4g1b-0eRs",
                        "key": 6
                 },
@@ -100,7 +100,7 @@ const d = {
                        "more": "none",
                        "id": 31462941,
                        "pass": "231846",
-                       "percentToQualify": 100,
+                       "percentToQualify": 52,
                        "verificationVid": "https://www.youtube.com/watch?v=izx0Rx7BfY8",
                        "key": 7
                 },
@@ -113,7 +113,7 @@ const d = {
 			"more": "none",
 			"id": 60988234,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 54,
 			"verificationVid": "https://youtu.be/0apDrdHCcuo",
 			"key": 8
 		},
@@ -126,7 +126,7 @@ const d = {
 			"more": "none",
 			"id": 44860762,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 45,
 			"verificationVid": "https://www.youtube.com/watch?v=stJfeo4-nQk",
 			"key": 9
 		},
@@ -139,7 +139,7 @@ const d = {
                        "more": "none",
                        "id": 30380566,
                        "pass": "210317",
-                       "percentToQualify": 100,
+                       "percentToQualify": 41,
                        "verificationVid": "https://www.youtube.com/watch?v=m751UWhP048",
                        "key": 10
                 },
@@ -159,7 +159,7 @@ const d = {
                        "more": "Skullkid, Zenith, Thomartin, GoodSmile, Jghost217, Edge, JustBasic, Osiris GD, AbstractDark, Unigeny, Kugelblitz",
                        "id": 48679353,
                        "pass": "276943",
-                       "percentToQualify": 100,
+                       "percentToQualify": 50,
                        "verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
                        "key": 11
                 },
@@ -172,7 +172,7 @@ const d = {
 			"more": "none",
 			"id": 57430694,
 			"pass": "040400",
-			"percentToQualify": 100,
+			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yZSQhtKl6VI",
 			"key": 12
 		},
@@ -185,7 +185,7 @@ const d = {
 			"more": "none",
 			"id": 48981134,
 			"pass": "160918",
-			"percentToQualify": 100,
+			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=8gyJH6_tQrM",
 			"key": 13
 		},
@@ -198,7 +198,7 @@ const d = {
 			"more": "Grax, RadiationV2, Arb, Jenkins GD",
 			"id": 57121503,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 45,
 			"verificationVid": "https://www.youtube.com/watch?v=Mdxo3a1STxQ",
 			"key": 14
 		},
@@ -211,7 +211,7 @@ const d = {
 			"more": "Sohn0924, Zelda, 1234, Dudex, Koreaqwer, S1l3nce, Tesla, Zhander, Stormfly, Blaireswip",
 			"id": 27904579,
 			"pass": "423816",
-			"percentToQualify": 100,
+			"percentToQualify": 67,
 			"verificationVid": "https://www.youtube.com/watch?v=ASHx39abpZ4",
 			"key": 15
 		},
@@ -230,7 +230,7 @@ const d = {
 			"more": "none",
 			"id": 51791710,
 			"pass": "Free copy",
-			"percentToQualify": 100,
+			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=N2A4ReGtjyE",
 			"key": 16
 		},
@@ -249,7 +249,7 @@ const d = {
 			"more": "none",
 			"id": 26133601,
 			"pass": "666669",
-			"percentToQualify": 100,
+			"percentToQualify": 66,
 			"verificationVid": "https://www.youtube.com/watch?v=xUkOqDtyD34",
 			"key": 17
 		},
@@ -268,7 +268,7 @@ const d = {
 			"more": "none",
 			"id": 27379546,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=EgjWa1ieNvs",
 			"key": 18
 		},
@@ -281,7 +281,7 @@ const d = {
 			"more": "none",
 			"id": 45411361,
 			"pass": "314159",
-			"percentToQualify": 100,
+			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=5ZnCVziF-5Y",
 			"key": 19
 		},
@@ -294,7 +294,7 @@ const d = {
 			"more": "Vexion, Cyberic, Ownbit, KrzGuzmanSB, Angryboy",
 			"id": 33670767,
 			"pass": "090517",
-			"percentToQualify": 100,
+			"percentToQualify": 43,
 			"verificationVid": "https://www.youtube.com/watch?v=N5WCQ-RvNxE",
 			"key": 20
 		},
@@ -307,7 +307,7 @@ const d = {
 			"more": "none",
 			"id": 60387034,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=AWD138wQMyI",
 			"key": 21
 		},
@@ -344,7 +344,7 @@ const d = {
 			"more": "Giron, weoweoteo, Vermillion, Michigun, Evasium, Crack, Asonicmen, Etzer, Havok, Riot, GgB0y",
 			"id": 10565740,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=3KB1lh1sJJ4",
 			"key": 22
 		},
@@ -357,7 +357,7 @@ const d = {
 			"more": "none",
 			"id": 48843446,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=i8l7ErWrjsM",
 			"key": 23
 		},
@@ -370,7 +370,7 @@ const d = {
 			"more": "none",
 			"id": 8147005,
 			"pass": "071100",
-			"percentToQualify": 100,
+			"percentToQualify": 68,
 			"verificationVid": "https://www.youtube.com/watch?v=Y_tutbvlLwg",
 			"key": 24
 		},
@@ -383,7 +383,7 @@ const d = {
 			"more": "Diris, Herdys, Goyuki, Selun, SrGaton, FarDreamer, Hoshikido, Zed Aurum, Bermard, Oasiz, Hko, Xuranox, Kllnex, Fufafac, GeometryTom, Zenthisuper, Axdrel, Yuno, Auntex, Zafkiel",
 			"id": 48175126,
 			"pass": "002309",
-			"percentToQualify": 100,
+			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=WICrwmPynrs",
 			"key": 25
 		},
@@ -402,7 +402,7 @@ const d = {
 			"more": "none",
 			"id": 60150813,
 			"pass": "296324",
-			"percentToQualify": 100,
+			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=3iZSDu6UQsA",
 			"key": 26
 		},
@@ -415,7 +415,7 @@ const d = {
 			"more": "none",
 			"id": 27908448,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 44,
 			"verificationVid": "https://www.youtube.com/watch?v=xCKoc4BcWO0",
 			"key": 27
 		},
@@ -428,7 +428,7 @@ const d = {
 			"more": "none",
 			"id": 16023141,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=BwoDBy3gvRw",
 			"key": 28
 		},
@@ -453,7 +453,7 @@ const d = {
 			"more": "none",
 			"id": 20159880,
 			"pass": "250516",
-			"percentToQualify": 100,
+			"percentToQualify": 69,
 			"verificationVid": "https://www.youtube.com/watch?v=GGBJn-ajdBs",
 			"key": 29
 		},
@@ -466,7 +466,7 @@ const d = {
 			"more": "Zanna83, HelpegasuS, Tear Rai, Sminx, V9lt, Temp, UltraCharge, Patchimator, Golden, Yoshikawa",
 			"id": 63045458,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=UVV-Yj4O-XE",
 			"key": 30
 		},
@@ -479,7 +479,7 @@ const d = {
 			"more": "none",
 			"id": 15265393,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=F6UkLlRh28o",
 			"key": 31
 		},
@@ -522,7 +522,7 @@ const d = {
 			"more": "Lunarstep11, Laser10, Bluh, xSeiun, ShawDowBoy, Zero, Chanel6, MonsieurEcho, Morfito, Slusheer, Nolex, FarDreamer, Byboy, Equisde, Teddy, Mixer, Azasuh, MatthewMW, Diplow, Zent, Apple, Cultrix, iMasu, Erick101, SonicJr, Kadex, Fufafac, ZkullGD, Hoolyduck",
 			"id": 54988894,
 			"pass": "343661",
-			"percentToQualify": 100,
+			"percentToQualify": 40,
 			"verificationVid": "https://www.youtube.com/watch?v=iieSbCKaHVc",
 			"key": 32
 		},
@@ -535,7 +535,7 @@ const d = {
 			"more": "MarEng, Quacduc, Lemons, DanZmeN, Chlorines, Angryboy, MrKoolTrix, Bransilver, Dorami, Osiris GD",
 			"id": 56779294,
 			"pass": "040400",
-			"percentToQualify": 100,
+			"percentToQualify": 46,
 			"verificationVid": "https://www.youtube.com/watch?v=jaOoZOO1qDg",
 			"key": 33
 		},
@@ -560,7 +560,7 @@ const d = {
 			"more": "Exenity, Squizz, Hinds, Vultra, Rhythmic, Waze, Bassiegames, Findexi, knobbelboy",
 			"id": 25610878,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 45,
 			"verificationVid": "https://www.youtube.com/watch?v=pAr1uqBcKxI",
 			"key": 34
 		},
