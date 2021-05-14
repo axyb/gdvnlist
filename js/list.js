@@ -5,7 +5,7 @@ const d = {
 			"vids": [
 			],
 			"name": "Bloodlust",
-                       "author": "axyb",
+                       "author": "Manix648 and more [axyb]",
                        "more": "none",
                        "id": 42584142,
                        "pass": "121296",
@@ -18,7 +18,7 @@ const d = {
                        "vids": [
 		       ],
                        "name": "Spacial Rend",
-                       "author": "CaustiX",
+                       "author": "Eclipsed and more [CaustiX]",
                        "more": "none",
                        "id": 40292513,
                        "pass": "417236",
@@ -31,7 +31,7 @@ const d = {
 		"vids": [
 			],
                        "name": "Sonic Wave Rebirth",
-                       "author": "axyb",
+                       "author": "Serponge and FunnyGame [axyb]",
                        "more": "none",
                        "id": 68688849,
                        "pass": "Free To Copy",
