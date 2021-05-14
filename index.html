@@ -64,9 +64,7 @@
                         <li>Achieved record without using hacks (However, FPS Bypass is allowed, Up to 300fps.)</li>
                         <li>Have achieved recordings using game maps that are not different from the one listed on the site.</li>
                         <li>Do not use secret routes or bug routes</li>
-                        <li>Do not use easy modes, only original level</li>
-                        <li>Once a level falls onto the legacy list, we accept records for 1 more day after it falls off, then aftwerwards we never accept records for said levels</li>
-                    </ul><br><br>
+                        </ul><br><br>
                    
                 </div>
                 <div><strong>Code for this website belongs to the shitty list<u>
@@ -120,7 +118,7 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-        if (rank > 150) {
+        if (rank > 75) {
             return roundNumber(15, 3);
         } else {
             return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
@@ -161,7 +159,7 @@
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 150) {
+        if (rank > 75) {
             return 0;
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
@@ -244,12 +242,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 150 + (legacy_count - a.legacyKey);
+            arank = 75 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 150 + (legacy_count - b.legacyKey);
+            brank = 75 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -284,7 +282,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 150 + (legacy_count - entry.legacyKey);
+                rank = 75 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }
@@ -296,7 +294,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html((rank > 75 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
