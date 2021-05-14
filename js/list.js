@@ -799,7 +799,7 @@ const d = {
 			"author": "SkrisGD",
 			"more": "none",
 			"id": NaN,
-			"pass": "NaN",
+			"pass": "Not Copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=iZ-8PZMKMI",
 			"key": 47
@@ -824,7 +824,7 @@ const d = {
 			"author": "MagnusVN",
 			"more": "none",
 			"id": 32688321,
-			"pass": "420420 weed xd ._.",
+			"pass": "420420",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=kM26g6TsTd0",
 			"key": 48
