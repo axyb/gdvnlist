@@ -94,6 +94,18 @@ const d = {
 		/*=================================================================================*/
 				{
                 "vids": [
+			{
+					"user": "CaustiX",
+					"link": "https://www.youtube.com/watch?v=y2fAkpJlRSs",
+					"percent": 78,
+					"hz": "Bypass"
+				},
+			{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=T9OQtfouLNI",
+					"percent": 62,
+					"hz": "Bypass"
+				},
 		         ],
                        "name": "Erebus",
                        "author": "Ilrell and Rustam [axyb]",
