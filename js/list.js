@@ -842,9 +842,232 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cA86M4I98YM",
 			"key": 49
+		},/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "SUBVERSIVE",
+			"author": "Snowr33de and more [CaustiX]",
+			"more": "Disp, Disappear, UltimateGuy, Vird, Sl@v.ik, Sightorld, XCore, RespectVG, MUFF1N, Namtar, Snowr33de, ChaSe",
+			"id": 20937583,
+			"pass": "410610",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=NT0DTItLPcE",
+			"key": 50
 		},
 		/*=================================================================================*/
-
+				{
+			"vids": [
+				{
+					"user": "Anicon",
+					"link": "https://www.youtube.com/watch?v=uKAv34x7di0",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+				{
+					"user": "Sunglasses Dude",
+					"link": "https://www.youtube.com/watch?v=K0Dm43SLM0Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "CYCLONE",
+			"author": "Bianox and more [augii]",
+			"more": "HelpegaSUS!, kDarko, Sequex, Zero, Enlex, Voltex, Bianox, Zipixbox, Sxap, Arceus4, Jenkins GD",
+			"id": 54917442,
+			"pass": "142536",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=49WZcruROR8",
+			"key": 51
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Hito73",
+					"link": "https://www.youtube.com/watch?v=0JdpdXqgb5M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=XzvBcAKU-A0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Duelo Maestro (Solo)",
+			"author": "Nacho21 [CaustiX]",
+			"more": "none",
+			"id": 23298409,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=I3Om1I2GynY",
+			"key": 52
+		},
+		/*=================================================================================*/
+				{
+		        "vids": [
+				{
+					"user": "Aquatic",
+					"link": "https://www.youtube.com/watch?v=IC-pKU0c3eo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "mephiles175",
+					"link": "https://www.youtube.com/watch?v=Xu4jvYuvwNU",
+					"percent": 100,
+					"hz": "288hz"
+				},
+			],
+			"name": "Zettabyte",
+			"author": "Jenkins [augii]",
+			"more": "none",
+			"id": 56089612,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=9ZZhw0h9Ftk",
+			"key": 53
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Uprise",
+			"author": "Blad3M [CaustiX]",
+			"more": "none",
+			"id": 14977845,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=pFnr8fUxvmo",
+			"key": 54
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=nHPEvlR4SwE",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+			],
+			"name": "Allegiance",
+			"author": "nikroplays [MagnusVN]",
+			"more": "none",
+			"id": 20761188,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Kf28QnYEoCo",
+			"key": 55
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+				 	"user": "Cretzen",
+                                        "link": "https://www.youtube.com/watch?v=Cvmn5moQDEw",
+                                        "percent": 100,
+                                        "hz": "Bypass"
+				},
+				{
+				 	"user": "Soulsilver Jr.",
+                                        "link": "https://www.youtube.com/watch?v=KbiE3LoPVg8",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=PJ2FzIoY95I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Tu2rus GD",
+					"link": "https://www.youtube.com/watch?v=rnMrPEaegn8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			"name": "HyperSonic",
+			"author": "ViPriN and more [MagnusVN]",
+			"more": "Dudex, Serponge, Vlacc, Rustam, nasgubb, ZenthicAlpha, ViPriN, Panman, Evasium, Etzer, Terron, Manix648",
+			"id": 30219145,
+			"pass": "Not Copyable",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=hPwRVndqZh8",
+			"key": 56
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+				       "user": "gbaktak",
+				       "link": "https://www.youtube.com/watch?v=tNrdyiqGbn0",
+				       "percent": 100,
+				       "hz": "Bypass"
+			       },
+				{
+					"user": "axyb",
+					"link": "https://www.youtube.com/watch?&v=Vtm21dKEnrQ",
+					"percent": 100,
+					"hz": "Bypass"
+				}, 
+				{
+					"user": "Gileter247",
+					"link": "https://www.youtube.com/watch?v=Wxxychl83sg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "phucngo",
+					"link": "https://youtu.be/_Z1HqjH6rec?fbclid=IwAR22C8_cs5pvr5jTfqVYOjGJICqcCXr6D8WSW_g0wMR90SyowClilL9aB7s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ItzTritiumVN",
+					"link": "https://www.youtube.com/watch?v=jf-2JeioVtk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealWind",
+					"link": "https://youtu.be/cUVdBj22TZA?fbclid=IwAR0_yNc08rBqkAW1YUba_6z9jO0VAorFuaZpCwOyprChomlaRZlV-8PukJE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Acu",
+			"author": "neigefeu [Aquatic]",
+			"more": "none",
+			"id": NaN,
+			"pass": "idk lol",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=T2GZD9t4WKc",
+			"key": 57
+		},
+		/*=================================================================================*/
+				                {
+			"vids": [
+			],
+			"name": "Napalm",
+			"author": "Marwec and more [MagnusVN]",
+			"more": "more",
+			"id": NaN,
+			"pass": "remind me to update this later",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Bp9hnWBiXsc",
+			"key": 58
+		},
+		/*=================================================================================*/
+	
 	],
 	"version": [
 		1,
