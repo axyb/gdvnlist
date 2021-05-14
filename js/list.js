@@ -944,7 +944,67 @@ const d = {
 			"verificationVid": "https://www.youtube.com/watch?v=pFnr8fUxvmo",
 			"key": 54
 		},
-		
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=nHPEvlR4SwE",
+					"percent": 100,
+					"hz": "Bypass"
+				},
+			],
+			"name": "Allegiance",
+			"author": "nikroplays [MagnusVN]",
+			"more": "none",
+			"id": 20761188,
+			"pass": "Free to copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Kf28QnYEoCo",
+			"key": 55
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+				 	"user": "Cretzen",
+                                        "link": "https://www.youtube.com/watch?v=Cvmn5moQDEw",
+                                        "percent": 100,
+                                        "hz": "Bypass"
+				},
+				{
+				 	"user": "Soulsilver Jr.",
+                                        "link": "https://www.youtube.com/watch?v=KbiE3LoPVg8",
+                                        "percent": 100,
+                                        "hz": "Mobile"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=PJ2FzIoY95I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Tu2rus GD",
+					"link": "https://www.youtube.com/watch?v=rnMrPEaegn8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			"name": "HyperSonic",
+			"author": "ViPriN and more [MagnusVN]",
+			"more": "Dudex, Serponge, Vlacc, Rustam, nasgubb, ZenthicAlpha, ViPriN, Panman, Evasium, Etzer, Terron, Manix648",
+			"id": 30219145,
+			"pass": "Not Copyable",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=hPwRVndqZh8",
+			"key": 56
+		},
 		/*=================================================================================*/
 	
 	],
