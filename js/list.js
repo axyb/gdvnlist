@@ -42,6 +42,12 @@ const d = {
 		/*=================================================================================*/
                 {
                 "vids": [
+			{
+					"user": "reeseye",
+					"link": "https://www.youtube.com/watch?v=ghmP2PovM7o",
+					"percent": 49,
+					"hz": "Bypass"
+				},
 			],
                        "name": "Sonic Wave",
                        "author": "Cyclic [axyb]",
