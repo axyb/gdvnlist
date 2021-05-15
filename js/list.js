@@ -35,7 +35,7 @@ const d = {
                        "more": "none",
                        "id": 68688849,
                        "pass": "Free To Copy",
-                       "percentToQualify": 49,
+                       "percentToQualify": 48,
                        "verificationVid": "https://www.youtube.com/watch?v=z9meMJ4JH6s",
                        "key": 2
                 },
