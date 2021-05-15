@@ -313,6 +313,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Hito73",
+					"link": "https://youtu.be/Q-6K_ysFtQY",
+					"percent": 56,
+					"hz": "60hz"
+				},
 			],
 			"name": "Libertas",
 			"author": "WOOGI1411, Koreaqwer and SunSet [mephiles175]",
@@ -528,6 +534,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "boiloveGD",
+					"link": "https://www.youtube.com/watch?v=Srcg0r13Xiw",
+					"percent": 88,
+					"hz": "60hz"
+				},
 			],
 			"name": "Esencia",
 			"author": "Zafkiel and more [MagnusVN]",
@@ -611,7 +623,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Yami",
+					"user": "boiloveGD",
 					"link": "https://www.youtube.com/watch?v=iwlxuzZkiPw",
 					"percent": 100,
 					"hz": "60hz"
