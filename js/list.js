@@ -242,6 +242,12 @@ const d = {
 					"percent": 100,
 					"hz": "Bypass"
 				},
+				{
+					"user": "Pillowplayz",
+					"link": "https://www.youtube.com/watch?v=rTKtemDsUgY",
+					"percent": 61,
+					"hz": "240hz"
+				},
 			],
 			"name": "Auditory Breaker",
 			"author": "Manix648, Cyclic and LazerBlitz [CaustiX]",
