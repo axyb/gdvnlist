@@ -245,7 +245,7 @@ const d = {
 				{
 					"user": "Pillowplayz",
 					"link": "https://www.youtube.com/watch?v=rTKtemDsUgY",
-					"percent": 61,
+					"percent": 81,
 					"hz": "240hz"
 				},
 			],
