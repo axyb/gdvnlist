@@ -1006,7 +1006,7 @@ const d = {
 				 	"user": "Cretzen",
                                         "link": "https://www.youtube.com/watch?v=Cvmn5moQDEw",
                                         "percent": 100,
-                                        "hz": "Bypass"
+                                        "hz": "144hz"
 				},
 				{
 				 	"user": "Soulsilver Jr.",
