@@ -56,6 +56,12 @@ const d = {
                 {
                 "vids": [
 			{
+					"user": "SherwinVN",
+					"link": "https://youtu.be/W8nJDbIkr3o",
+					"percent": 67,
+					"hz": "144hz"
+				},
+			{
 					"user": "reeseye",
 					"link": "https://www.youtube.com/watch?v=ghmP2PovM7o",
 					"percent": 49,
@@ -564,6 +570,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Srcg0r13Xiw",
 					"percent": 88,
 					"hz": "60hz"
+				},
+				{
+					"user": "Longinus",
+					"link": "https://youtu.be/Rr1r1-W61h4",
+					"percent": 58,
+					"hz": "60hz"
+				},
+				{
+					"user": "HyperVN",
+					"link": "https://youtu.be/VOJHXvVjyw8",
+					"percent": 43,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Esencia",
