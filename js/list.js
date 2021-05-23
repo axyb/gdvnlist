@@ -1118,6 +1118,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NgHoagAnh",
+					"link": "https://www.youtube.com/watch?v=DouxhoWdnzc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Acu",
 			"author": "neigefeu [Aquatic]",
