@@ -146,7 +146,7 @@ const d = {
 		"vids": [
 		          ],
                        "name": "Celestial Force",
-                       "author": "Mindcap and more    [mephiles175]",
+                       "author": "Mindcap and more [mephiles175]",
                        "more": "Gaidenhertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel",
                        "id": 47237400,
                        "pass": "772002",
