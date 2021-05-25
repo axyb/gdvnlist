@@ -90,6 +90,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=ZCNLM_yB9vU",
                        "key": 5
                 },
+		/*=================================================================================*/
+		{   
+		"vids": [
+		          ],
+                       "name": "Celestial Force",
+                       "author": "MindCap and more [mephiles175]",
+                       "more": "Gaidenhertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel",
+                       "id": 47237400,
+                       "pass": "772002",
+                       "percentToQualify": 55,
+                       "verificationVid": "https://www.youtube.com/watch?v=mSVZYm-o6ts",
+                       "key": 6
+		}, 
                 /*=================================================================================*/
 		{   
 		"vids": [
@@ -101,7 +114,7 @@ const d = {
                        "pass": "0007",
                        "percentToQualify": 40,
                        "verificationVid": "https://www.youtube.com/watch?v=bMRn5JziLFI",
-                       "key": 6
+                       "key": 7
                 },
 		/*=================================================================================*/
 		{
@@ -114,7 +127,7 @@ const d = {
                        "pass": "Not Copyable",
                        "percentToQualify": 51,
                        "verificationVid": "https://www.youtube.com/watch?v=5H4g1b-0eRs",
-                       "key": 7
+                       "key": 8
                 },
 		/*=================================================================================*/
 				{
@@ -139,21 +152,8 @@ const d = {
                        "pass": "231846",
                        "percentToQualify": 52,
                        "verificationVid": "https://www.youtube.com/watch?v=izx0Rx7BfY8",
-                       "key": 8
-                },          
-                /*=================================================================================*/
-		{   
-		"vids": [
-		          ],
-                       "name": "Celestial Force",
-                       "author": "Mindcap and more [mephiles175]",
-                       "more": "Gaidenhertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel",
-                       "id": 47237400,
-                       "pass": "772002",
-                       "percentToQualify": 55,
-                       "verificationVid": "https://www.youtube.com/watch?v=mSVZYm-o6ts",
                        "key": 9
-		}, 
+                },         
 		/*=================================================================================*/
 		{
 			"vids": [
