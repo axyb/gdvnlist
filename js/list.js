@@ -805,12 +805,6 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
-				{
-                                       "user": "reeseye",
-                                       "link": "https://www.youtube.com/watch?v=sNqZ2_Pl38g&t=1s",
-                                       "percent": 100,
-                                       "hz": "Bypass"
-				},
 			],
 			"name": "The Flawless",
 			"author": "IIIRyanIII and more [CaustiX]",
@@ -1068,12 +1062,6 @@ const d = {
 				{
 					"user": "axyb",
 					"link": "https://www.youtube.com/watch?v=QWPCI7jVkCc",
-					"percent": 100,
-					"hz": "Bypass"
-				},
-				{
-					"user": "env1",
-					"link": "https://www.youtube.com/watch?v=q5nUj25beTQ&lc=UgxYJBLW2TOZMS-T0hl4AaABAg",
 					"percent": 100,
 					"hz": "Bypass"
 				},
