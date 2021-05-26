@@ -1070,6 +1070,12 @@ const d = {
 					"percent": 100,
 					"hz": "Bypass"
 				},
+				{
+					"user": "env1",
+					"link": "https://www.youtube.com/watch?v=q5nUj25beTQ&lc=UgxYJBLW2TOZMS-T0hl4AaABAg",
+					"percent": 100,
+					"hz": "Bypass"
+				},
 			],
 			"name": "Allegiance",
 			"author": "nikroplays [MagnusVN]",
@@ -1106,6 +1112,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rnMrPEaegn8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "ZaikaCheems",
