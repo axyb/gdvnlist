@@ -567,7 +567,7 @@ const d = {
 			"more": "none",
 			"id": 15265393,
 			"pass": "Not Copyable",
-			"percentToQualify": 63,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=F6UkLlRh28o",
 			"key": 35
 		},
@@ -604,31 +604,14 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-				{
-					"user": "boiloveGD",
-					"link": "https://www.youtube.com/watch?v=Srcg0r13Xiw",
-					"percent": 88,
-					"hz": "60hz"
-				},
-				{
-					"user": "Longinus",
-					"link": "https://youtu.be/Rr1r1-W61h4",
-					"percent": 58,
-					"hz": "60hz"
-				},
-				{
-					"user": "HyperVN",
-					"link": "https://youtu.be/VOJHXvVjyw8",
-					"percent": 43,
-					"hz": "Mobile"
-				},
+				
 			],
 			"name": "Esencia",
 			"author": "Zafkiel and more [MagnusVN]",
 			"more": "Lunarstep11, Laser10, Bluh, xSeiun, ShawDowBoy, Zero, Chanel6, MonsieurEcho, Morfito, Slusheer, Nolex, FarDreamer, Byboy, Equisde, Teddy, Mixer, Azasuh, MatthewMW, Diplow, Zent, Apple, Cultrix, iMasu, Erick101, SonicJr, Kadex, Fufafac, ZkullGD, Hoolyduck",
 			"id": 54988894,
 			"pass": "343661",
-			"percentToQualify": 40,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=iieSbCKaHVc",
 			"key": 36
 		},
