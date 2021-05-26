@@ -1119,12 +1119,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "ZaikaCheems",
-					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
-					"percent": 100,
-					"hz": "Mobile"
-				},
 			],
 			"name": "HyperSonic",
 			"author": "ViPriN and more [MagnusVN]",
