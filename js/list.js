@@ -1014,7 +1014,7 @@ const d = {
 					"user": "mephiles175",
 					"link": "https://www.youtube.com/watch?v=Xu4jvYuvwNU",
 					"percent": 100,
-					"hz": "288hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Zettabyte",
