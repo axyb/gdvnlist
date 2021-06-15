@@ -1643,13 +1643,7 @@ const d = {
 				},
 				{
 					"user": "DzuiSoSad",
-					"link": "https://youtube.com/watch?v=-P3FqOPoSWw",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-                                {
-					"user": "ZaikaCheems",
-					"link": "https://youtu.be/ZxQfRI2rCiQ",
+					"link": "https://m.youtube.com/watch?v=-P3FqOPoSWw",
 					"percent": 100,
 					"hz": "Mobile"
 				},
