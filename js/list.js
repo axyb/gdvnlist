@@ -204,6 +204,32 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=izx0Rx7BfY8",
                        "key": 11
                 },         
+		/*=================================================================================*/		
+		{
+			"vids": [
+			],
+			"name": "Catalyze",
+			"author": "ZephiroX [DarkTD]",
+			"more": "none",
+			"id": 50333567,
+			"pass": "Free Copy",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=sX5LPetn8Nc",
+			"key": 12
+		},         
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "ZAPHKIEL",
+			"author": "Darwin and Noctafly [DarkTD]",
+			"more": "none",
+			"id": 36329434,
+			"pass": "4250",
+			"percentToQualify": 56,
+			"verificationVid": "https://www.youtube.com/watch?v=gKI50hzCRW8",
+			"key": 12
+		},         
 		/*=================================================================================*/
 		{
 			"vids": [
@@ -215,6 +241,19 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 51,
 			"verificationVid": "https://www.youtube.com/watch?v=iSIrKRO6vmY",
+			"key": 12
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Digital Descent",
+			"author": "ViPriN and more [DarkTD]",
+			"more": "Codex, Kips, nasgubb, Terron, AbstractDark, Samifying, Manix648, ViPriN, TheDevon, Etzer, Loogiah, LazerBlitz, G4lvatron, KrmaL, Vlacc, Serponge, Hinds, Rustam",
+			"id": 37456092,
+			"pass": "666000",
+			"percentToQualify": 56,
+			"verificationVid": "https://www.youtube.com/watch?v=QKMPQpgpgdk",
 			"key": 12
 		},
 		/*=================================================================================*/
@@ -302,6 +341,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
                        "key": 18
                 },
+		/*=================================================================================*/
+			{
+		        "vids": [
+			],
+			"name": "Surge of the Shield",
+			"author": "Geo and more [axyb]",
+			"more": "Geo, GDSean, Majkomar, XultroniX, Uneskladovae, MaskZ, Isane, Sequex, Kllnex, Duffz, Nyzerlux, Acnologia, Gr, Omega, Zipixbox, Cryst4l",
+			"id": 61127840,
+			"pass": "972123",
+			"percentToQualify": 40,
+			"verificationVid": "https://www.youtube.com/watch?v=hohl1pGUcg0",
+			"key": 19
+		},
 		/*=================================================================================*/
 			{
 		        "vids": [
@@ -545,31 +597,13 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
-				{
-					"user": "WMirror",
-					"link": "https://www.youtube.com/watch?v=jUIdU7BXTtQ",
-					"percent": 97,
-					"hz": "144hz"
-				},
-				{
-					"user": "noeruchan",
-					"link": "https://www.youtube.com/watch?v=TVorV7m3GjM",
-					"percent": 79,
-					"hz": "Bypass"
-				},
-				{
-					"user": "Hito73",
-					"link": "https://youtu.be/CWGgSim1dK8",
-					"percent": 74,
-					"hz": "Bypass"
-				},
 			],
 			"name": "Bloodbath",
 			"author": "Riot and more [MagnusVN]",
 			"more": "Giron, weoweoteo, Vermillion, Michigun, Evasium, Crack, Asonicmen, Etzer, Havok, Riot, GgB0y",
 			"id": 10565740,
 			"pass": "Not Copyable",
-			"percentToQualify": 50,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=3KB1lh1sJJ4",
 			"key": 31
 		},
@@ -582,7 +616,7 @@ const d = {
 			"more": "none",
 			"id": 48843446,
 			"pass": "Free to copy",
-			"percentToQualify": 56,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=i8l7ErWrjsM",
 			"key": 32
 		},
@@ -595,7 +629,7 @@ const d = {
 			"more": "null",
 			"id": 62419473,
 			"pass": "idk",
-			"percentToQualify": 50,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=KxLRbh2iovI",
 			"key": 33
 		},
@@ -608,7 +642,7 @@ const d = {
 			"more": "none",
 			"id": 8147005,
 			"pass": "071100",
-			"percentToQualify": 68,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Y_tutbvlLwg",
 			"key": 34
 		},
@@ -915,6 +949,19 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=UeDkCaHSO6k",
 			"key": 49
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Concaved Memories",
+			"author": "CairoX and more [DarkTD]",
+			"more": "HelpegasuS, iNubble, CairoX, DonutTV",
+			"id": 57559425,
+			"pass": "341269",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Wa61Dw9cIss",
+			"key": 50
 		},
 		/*=================================================================================*/
 		{
@@ -1546,7 +1593,7 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/eTySY7UHNlo",
-			"key": 74
+			"legacykey": 0
 		},
 		/*=================================================================================*/
 				{
