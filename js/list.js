@@ -208,6 +208,32 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Lucid Chaos",
+			"author": "CairoX and more [DarkTD]",
+			"more": "CairoX, Deadlox, HelpegasuS, Dorami, Moosh, iNubble, Jaowan, SleyGD, TriplasH, creoa, Endlevel",
+			"id": 62817170,
+			"pass": "Free Copy",
+			"percentToQualify": 61,
+			"verificationVid": "https://www.youtube.com/watch?v=tGwJmWfbrbg",
+			"key": 12
+		},         
+		/*=================================================================================*/		
+		{
+			"vids": [
+			],
+			"name": "Timor",
+			"author": "Colorbolt and Maxie25 [DarkTD]",
+			"more": "?",
+			"id": 65969451,
+			"pass": "Free Copy",
+			"percentToQualify": 59,
+			"verificationVid": "https://www.youtube.com/watch?v=-EA6IMyvxtU",
+			"key": 12
+		},         
+		/*=================================================================================*/	
+		{
+			"vids": [
+			],
 			"name": "Catalyze",
 			"author": "ZephiroX [DarkTD]",
 			"more": "none",
@@ -230,6 +256,19 @@ const d = {
 			"verificationVid": "https://www.youtube.com/watch?v=gKI50hzCRW8",
 			"key": 12
 		},         
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Omicron",
+			"author": "Team Proxima [DarkTD]",
+			"more": "none",
+			"id": 63560498,
+			"pass": "Free to copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=w73lD0nXZB0",
+			"key": 12
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
@@ -260,6 +299,19 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Fabrication",
+			"author": "KeiAs and more [DarkTD]",
+			"more": "Krampux, Motu, Sikatsuka, LatiMv2, Dotory, Magical47, Dister K, Ranar, Swjo, CrePusCule, creatordemon, Zernis, Mulpan, ArinGD, DEMN, Soulwinds, Kurai Yonaka, Soulsand",
+			"id": 33983930,
+			"pass": "697423",
+			"percentToQualify": 56,
+			"verificationVid": "https://www.youtube.com/watch?v=Mvm02emuF88",
+			"key": 13
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
 			"name": "Artificial Ascent",
 			"author": "AncientAnubis and more [DarkTD]",
 			"more": "Codex, Manix648, Sanic, Hinds, Zobros, Michigun, Anthrax, ZenthicAlpha, ViPriN, Loogiah, wamiq8, nasgubb, AbstractDark, Etzer, GDSpeed, Serponge, G4lvatron, Terron, AncientAnubis",
@@ -268,6 +320,19 @@ const d = {
 			"percentToQualify": 53,
 			"verificationVid": "https://www.youtube.com/watch?v=DmntyJjmW8w",
 			"key": 13
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Freedom08",
+			"author": "Pennutoh and more [DarkTD]",
+			"more": "Pennutoh, Onnikonna, Pawe, Borto, Metalface221, Zanna83, Nemphis, Enlex, Bianox, Angryboy, LeoCreatorX, Juhou, Avakai, Eggnog, ShowtimeVonParty, Sminx, MrLorenzo, Altin, Psynapse, Isane, Temp, Nico99, Allan, PokeChatt, knobbelboy, Prism",
+			"id": 55274070,
+			"pass": "210317",
+			"percentToQualify": 49,
+			"verificationVid": "https://www.youtube.com/watch?v=UbjAEyTrgqw",
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -341,6 +406,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
                        "key": 18
                 },
+		/*=================================================================================*/
+			{
+		        "vids": [
+			],
+			"name": "Carcano",
+			"author": "Asuith and TomsoN [DarkTD]",
+			"more": "jztr",
+			"id": 64148732,
+			"pass": "Free Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=nuRIXCqWydM",
+			"key": 19
+		},
 		/*=================================================================================*/
 			{
 		        "vids": [
@@ -776,6 +854,19 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Maybe Possibly Thing",
+			"author": "iNubble and YakobNugget [DarkTD]",
+			"more": "fgeufhj",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=fh9tF1KeFkU",
+			"key": 40
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
 			"name": "Sakupen Hell",
 			"author": "Noobas [DarkTD]",
 			"more": "fgeufhj",
@@ -880,6 +971,19 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=jaOoZOO1qDg",
 			"key": 44
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Reverence",
+			"author": "woom [DarkTD]",
+			"more": "jztr",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=12-1Ffu4LDw",
+			"key": 45
 		},
 		/*=================================================================================*/
 		{
@@ -1575,6 +1679,19 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Falling Up",
+			"author": "KrmaL [DarkTD]",
+			"more": "more",
+			"id": 24301797,
+			"pass": "0004",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=bAjyO5YenI4",
+			"key": 68
+		},		
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "MagnusVN",
 					"link": "https://www.youtube.com/watch?v=jXYYdxbmtNA",
@@ -1763,6 +1880,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=_IHvFK31AYc",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "The Ultimate Phase",
 			"author": "Andromeda and more [CaustiX]",
@@ -1840,7 +1963,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=nOz-kQcGfrs",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1859,7 +1982,7 @@ const d = {
 			"pass": "bé tập đếm từ 1 đến 6",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YESeJ2Tu8Ic",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1872,7 +1995,7 @@ const d = {
 			"pass": "010517",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=G8HeSwvGLfc",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1885,7 +2008,7 @@ const d = {
 			"pass": "159632",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cdG4Xh6GR2o",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1904,7 +2027,7 @@ const d = {
 			"pass": "No Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Fv0pugUZu_0&t=3s",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1923,7 +2046,7 @@ const d = {
 			"pass": "159753",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YXZ3vr1MHdk",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1952,9 +2075,9 @@ const d = {
 			"more": "nah",
 			"id": 21952243,
 			"pass": "369741",
-			"percentToQualify": NaN,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=dZtQRRQvO88",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 		{
@@ -1995,9 +2118,9 @@ const d = {
 			"more": "none",
 			"id": NaN,
 			"pass": "=",
-			"percentToQualify": NaN,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=dLgc42GL3VM",
-			"key": 68
+			"legacykey" : 0
 		},
 		/*=================================================================================*/
 	
