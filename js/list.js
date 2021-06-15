@@ -458,6 +458,12 @@ const d = {
 					"hz": "Bypass"
 				},
 				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=4xtoO6x34JM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "WMirror",
 					"link": "https://www.youtube.com/watch?v=jUIdU7BXTtQ",
 					"percent": 97,
@@ -830,6 +836,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "Bypass"
                                 },
+				{
+                                       "user": "DarkTD",
+                                       "link": "hhttps://www.youtube.com/watch?v=zkwaVSXkyzU",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
 			],
 			"name": "Deception Dive",
 			"author": "Rustam and more [CaustiX]",
@@ -862,6 +874,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                       "user": "DarkTD",
+                                       "link": "https://www.youtube.com/watch?v=ybQ_-vpadFY",
+                                       "percent": 100,
+                                       "hz": "144hz"
+                                },
 			],
 			"name": "Fexty",
 			"author": "Ozpectro [MagnusVN]",
@@ -938,6 +956,13 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=DwgQgQdNzZ8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				
 			],
 			"name": "Glide",
 			"author": "crohn44 [MagnusVN]",
@@ -975,6 +1000,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=GKobItbC-3s",
 					"percent": 100,
 					"hz": "Bypass"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=aNEWlv9XUuc",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Incipient",
@@ -1077,6 +1108,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=1UWwHHBUOJs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Zettabyte",
 			"author": "Jenkins [augii]",
@@ -1120,6 +1157,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=q5nUj25beTQ&lc=UgxYJBLW2TOZMS-T0hl4AaABAg",
 					"percent": 100,
 					"hz": "Bypass"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=1el93pj-Yf0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Allegiance",
@@ -1279,6 +1322,12 @@ const d = {
 				{
 					"user": "ItzStardust",
 					"link": "https://www.youtube.com/watch?v=4hYSfSAaxm0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=AEGC521ynuM",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1490,6 +1539,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eAO0X8QUvME",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=s822ghiuYjA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "ICE Carbon Diablo X",
