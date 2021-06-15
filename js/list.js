@@ -452,6 +452,19 @@ const d = {
 		{
 		        "vids": [
 			],
+			"name": "Carnage Mode",
+			"author": "Findexi and more [DarkTD]",
+			"more": "Findexi, nasgubb, Dudex, Kips, GDSpeed, Lassiboy, Juhou, Lemons",
+			"id": 36107975,
+			"pass": "Free to Copy",
+			"percentToQualify": 45,
+			"verificationVid": "https://www.youtube.com/watch?v=o7kRjXPLlIY",
+			"key": 27
+		},
+		/*=================================================================================*/
+		{
+		        "vids": [
+			],
 			"name": "Asmodeus",
 			"author": "Vexion and more [CaustiX]",
 			"more": "Vexion, Cyberic, Ownbit, KrzGuzmanSB, Angryboy",
@@ -577,6 +590,19 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Diligence",
+			"author": "Davphla and more [DarkTD]",
+			"more": "null",
+			"id": 62419473,
+			"pass": "idk",
+			"percentToQualify": 50,
+			"verificationVid": "https://www.youtube.com/watch?v=KxLRbh2iovI",
+			"key": 31
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
 			"name": "Down Bass",
 			"author": "Spectruh [CaustiX]",
 			"more": "none",
@@ -680,6 +706,19 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=GGBJn-ajdBs",
 			"key": 37
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "INNARDS",
+			"author": "Kaito [DarkTD]",
+			"more": "fgeufhj",
+			"id": 54588072,
+			"pass": "024624",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=FhoGnOyX1Sg",
+			"key": 38
 		},
 		/*=================================================================================*/
 		{
@@ -1404,7 +1443,20 @@ const d = {
 			"key": 67
 		},
 		/*=================================================================================*/
-				                {
+		{
+			"vids": [
+			],
+			"name": "Faith",
+			"author": "ZeroSR and more [DarkTD]",
+			"more": "more!",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=9N-fpBL2eZk",
+			"key": 68
+		},		
+		/*=================================================================================*/
+		{
 			"vids": [
 			],
 			"name": "Napalm",
@@ -1415,8 +1467,7 @@ const d = {
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Bp9hnWBiXsc",
 			"key": 68
-		},
-		
+		},		
 		/*=================================================================================*/
 		{
 			"vids": [
