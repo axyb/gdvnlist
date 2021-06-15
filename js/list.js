@@ -346,7 +346,7 @@ const d = {
 		        "vids": [
 			],
 			"name": "Surge of the Shield",
-			"author": "Geo and more [axyb]",
+			"author": "Geo and more [DarkTD]",
 			"more": "Geo, GDSean, Majkomar, XultroniX, Uneskladovae, MaskZ, Isane, Sequex, Kllnex, Duffz, Nyzerlux, Acnologia, Gr, Omega, Zipixbox, Cryst4l",
 			"id": 61127840,
 			"pass": "972123",
@@ -491,6 +491,19 @@ const d = {
 				{
 		        "vids": [
 			],
+			"name": "DARKENED",
+			"author": "Bianox and more [DarkTD]",
+			"more": "Uneskladovae, Bianox, Desticy, Shocksidian, Ryder, EyeOfTheStorm",
+			"id": 66085306,
+			"pass": "Free Copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=9jiqhbbrD8w",
+			"key": 26
+		},
+		/*=================================================================================*/
+				{
+		        "vids": [
+			],
 			"name": "EnvY",
 			"author": "DanZmeN [CaustiX]",
 			"more": "none",
@@ -597,13 +610,31 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "WMirror",
+					"link": "https://www.youtube.com/watch?v=jUIdU7BXTtQ",
+					"percent": 97,
+					"hz": "144hz"
+				},
+				{
+					"user": "noeruchan",
+					"link": "https://www.youtube.com/watch?v=TVorV7m3GjM",
+					"percent": 79,
+					"hz": "Bypass"
+				},
+				{
+					"user": "Hito73",
+					"link": "https://youtu.be/CWGgSim1dK8",
+					"percent": 74,
+					"hz": "Bypass"
+				},
 			],
 			"name": "Bloodbath",
 			"author": "Riot and more [MagnusVN]",
 			"more": "Giron, weoweoteo, Vermillion, Michigun, Evasium, Crack, Asonicmen, Etzer, Havok, Riot, GgB0y",
 			"id": 10565740,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 41,
 			"verificationVid": "https://www.youtube.com/watch?v=3KB1lh1sJJ4",
 			"key": 31
 		},
@@ -616,7 +647,7 @@ const d = {
 			"more": "none",
 			"id": 48843446,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 44,
 			"verificationVid": "https://www.youtube.com/watch?v=i8l7ErWrjsM",
 			"key": 32
 		},
@@ -629,7 +660,7 @@ const d = {
 			"more": "null",
 			"id": 62419473,
 			"pass": "idk",
-			"percentToQualify": 100,
+			"percentToQualify": 53,
 			"verificationVid": "https://www.youtube.com/watch?v=KxLRbh2iovI",
 			"key": 33
 		},
@@ -642,7 +673,7 @@ const d = {
 			"more": "none",
 			"id": 8147005,
 			"pass": "071100",
-			"percentToQualify": 100,
+			"percentToQualify": 50,
 			"verificationVid": "https://www.youtube.com/watch?v=Y_tutbvlLwg",
 			"key": 34
 		},
@@ -655,7 +686,7 @@ const d = {
 			"more": "Diris, Herdys, Goyuki, Selun, SrGaton, FarDreamer, Hoshikido, Zed Aurum, Bermard, Oasiz, Hko, Xuranox, Kllnex, Fufafac, GeometryTom, Zenthisuper, Axdrel, Yuno, Auntex, Zafkiel",
 			"id": 48175126,
 			"pass": "002309",
-			"percentToQualify": 100,
+			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=WICrwmPynrs",
 			"key": 35
 		},
@@ -674,7 +705,7 @@ const d = {
 			"more": "none",
 			"id": 60150813,
 			"pass": "296324",
-			"percentToQualify": 100,
+			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=3iZSDu6UQsA",
 			"key": 36
 		},
@@ -687,7 +718,7 @@ const d = {
 			"more": "none",
 			"id": 27908448,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 43,
 			"verificationVid": "https://www.youtube.com/watch?v=xCKoc4BcWO0",
 			"key": 37
 		},
@@ -700,7 +731,7 @@ const d = {
 			"more": "none",
 			"id": 16023141,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
+			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=BwoDBy3gvRw",
 			"key": 38
 		},
@@ -737,9 +768,22 @@ const d = {
 			"more": "none",
 			"id": 20159880,
 			"pass": "250516",
-			"percentToQualify": 100,
+			"percentToQualify": 69,
 			"verificationVid": "https://www.youtube.com/watch?v=GGBJn-ajdBs",
 			"key": 39
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Sakupen Hell",
+			"author": "Noobas [DarkTD]",
+			"more": "fgeufhj",
+			"id": 23262780,
+			"pass": "895562",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=CmS9VOHW-l0",
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -1339,6 +1383,19 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Awakening Horus",
+			"author": "Juhou and Xingtik [DarkTD]",
+			"more": "none",
+			"id": 39458641,
+			"pass": "789456",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=dVhHFWDi9i4",
+			"key": 67
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "reeseye",
 					"link": "https://www.youtube.com/watch?v=nHPEvlR4SwE",
@@ -1420,7 +1477,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=hPwRVndqZh8",
-			"key": 69
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1487,7 +1544,7 @@ const d = {
 			"pass": "idk lol",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=T2GZD9t4WKc",
-			"key": 70
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1500,7 +1557,7 @@ const d = {
 			"pass": "NaN",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=9N-fpBL2eZk",
-			"key": 71
+			"key": 68
 		},		
 		/*=================================================================================*/
 		{
@@ -1513,7 +1570,7 @@ const d = {
 			"pass": "remind me to update this later",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Bp9hnWBiXsc",
-			"key": 72
+			"key": 68
 		},		
 		/*=================================================================================*/
 		{
@@ -1562,7 +1619,7 @@ const d = {
 			"pass": "666777",
 			"percentToQualify": 100,
 			"verificationVid": "http://www.youtube.com/watch?v=2XrDHdDnYFI",
-			"key": 73
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1593,7 +1650,7 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://youtu.be/eTySY7UHNlo",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 				{
@@ -1606,7 +1663,7 @@ const d = {
 			"pass": "343202",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=m8SUlxOHorA",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1620,7 +1677,7 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=uf95Dq3-yHw",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1645,7 +1702,7 @@ const d = {
 			"pass": "212541",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cdHfPvFY17E",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1688,7 +1745,7 @@ const d = {
 			"pass": "011020",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=BcWKpb8UenY",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1701,7 +1758,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=VB4LuMBqpoU",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1714,7 +1771,7 @@ const d = {
 			"pass": "no copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=CowlnPUIgQ8",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/				  {
 			"vids": [ 
@@ -1726,7 +1783,7 @@ const d = {
 			"pass": "",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=hKu_HZ7zFe0&t=28s",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1739,7 +1796,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=9WDBYGW2A6A",
-			"legacykey": 0
+			"key": 68
 		},
 		
 		/*=================================================================================*/
@@ -1783,7 +1840,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=nOz-kQcGfrs",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1802,7 +1859,7 @@ const d = {
 			"pass": "bé tập đếm từ 1 đến 6",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YESeJ2Tu8Ic",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1815,7 +1872,7 @@ const d = {
 			"pass": "010517",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=G8HeSwvGLfc",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1828,7 +1885,7 @@ const d = {
 			"pass": "159632",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cdG4Xh6GR2o",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1847,7 +1904,7 @@ const d = {
 			"pass": "No Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=Fv0pugUZu_0&t=3s",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1866,7 +1923,7 @@ const d = {
 			"pass": "159753",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YXZ3vr1MHdk",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1897,7 +1954,7 @@ const d = {
 			"pass": "369741",
 			"percentToQualify": NaN,
 			"verificationVid": "https://www.youtube.com/watch?v=dZtQRRQvO88",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 		{
@@ -1940,7 +1997,7 @@ const d = {
 			"pass": "=",
 			"percentToQualify": NaN,
 			"verificationVid": "https://www.youtube.com/watch?v=dLgc42GL3VM",
-			"legacykey": 0
+			"key": 68
 		},
 		/*=================================================================================*/
 	
