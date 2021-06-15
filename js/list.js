@@ -144,6 +144,12 @@ const d = {
                 /*=================================================================================*/
 		{   
 		"vids": [
+			{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=ZQ2AMXA4Fwk",
+					"percent": 100,
+					"hz": "165hz"
+				},
 		          ],
                        "name": "xo",
                        "author": "KrmaL [axyb]",
@@ -157,14 +163,20 @@ const d = {
 		/*=================================================================================*/
 		{
                 "vids": [
+			{
+					"user": "axyb",
+					"link": "https://www.youtube.com/watch?v=5H4g1b-0eRs",
+					"percent": 100,
+					"hz": "Bypass"
+				},
                          ],
                        "name": "Yatagarasu",
-                       "author": "ViPriN and more [axyb]",
+                       "author": "ViPriN and more [DarkTD]",
                        "more": "Giron, ViPriN, AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, weoweoteo, Anthrax, AbstractDark, Aeidux, Vermillion, Zelda, Michigun, Luneth, Hinds, Evasium, Csx42gaming, Funnygame, Riot, xcy7",
                        "id": 28220417,
                        "pass": "Not Copyable",
                        "percentToQualify": 51,
-                       "verificationVid": "https://www.youtube.com/watch?v=5H4g1b-0eRs",
+                       "verificationVid": "https://www.youtube.com/watch?v=f-rL8cFGaZ8",
                        "key": 10
                 },
 		/*=================================================================================*/
@@ -326,6 +338,12 @@ const d = {
 					"hz": "Bypass"
 				},
 				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=jeythXBrOJs",
+					"percent": 100,
+					"hz": "165hz"
+				},
+				{
 					"user": "Pillowplayz",
 					"link": "https://www.youtube.com/watch?v=rTKtemDsUgY",
 					"percent": 81,
@@ -350,6 +368,12 @@ const d = {
 					"percent": 100,
 					"hz": "Bypass"
 				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=dImc13aT-H8",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Athanatos",
 			"author": "Gaero, Herzilo and Exenity [CaustiX]",
@@ -368,6 +392,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=nmKn_bMwYOU",
 					"percent": 100,
 					"hz": "Bypass"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=-iLch3V0-Rg",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Infernal Abyss",
@@ -461,7 +491,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=4xtoO6x34JM",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 				{
 					"user": "WMirror",
@@ -596,6 +626,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=rHnGTYPVHQ8",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Plasma Pulse III",
 			"author": "Giron and xSmokes [CaustiX]",
@@ -703,6 +739,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4oiZIYWbtlI",
 					"percent": 100,
 					"hz": "Bypass"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=f3eDBue1xFA",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "Aftermath",
@@ -840,7 +882,7 @@ const d = {
                                        "user": "DarkTD",
                                        "link": "hhttps://www.youtube.com/watch?v=zkwaVSXkyzU",
                                        "percent": 100,
-                                       "hz": "144hz"
+                                       "hz": "165hz"
                                 },
 			],
 			"name": "Deception Dive",
@@ -878,7 +920,7 @@ const d = {
                                        "user": "DarkTD",
                                        "link": "https://www.youtube.com/watch?v=ybQ_-vpadFY",
                                        "percent": 100,
-                                       "hz": "144hz"
+                                       "hz": "165hz"
                                 },
 			],
 			"name": "Fexty",
@@ -960,7 +1002,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=DwgQgQdNzZ8",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 				
 			],
@@ -1005,7 +1047,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=aNEWlv9XUuc",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 			],
 			"name": "Incipient",
@@ -1057,6 +1099,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=K0Dm43SLM0Y",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Sunglasses Dude",
+					"link": "https://www.youtube.com/watch?v=L7IBxNX_Er8",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "CYCLONE",
@@ -1112,7 +1160,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=1UWwHHBUOJs",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 			],
 			"name": "Zettabyte",
@@ -1162,7 +1210,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=1el93pj-Yf0",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 			],
 			"name": "Allegiance",
@@ -1206,6 +1254,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=-2HHJH62W_A",
+					"percent": 100,
+					"hz": "165hz"
 				},
 			],
 			"name": "HyperSonic",
@@ -1268,6 +1322,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "DarkTD",
+					"link": "https://www.youtube.com/watch?v=RUoCk65t8I8",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Acu",
 			"author": "neigefeu [Aquatic]",
@@ -1329,7 +1389,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=AEGC521ynuM",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 			],
 			"name": "Cataclysm",
@@ -1355,6 +1415,12 @@ const d = {
 					"link": "https://youtu.be/9JC90oGtbZ8",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "Longinus",
+					"link": "https://www.youtube.com/watch?v=RoWiQFmB_c0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Thanatophobia",
@@ -1544,7 +1610,7 @@ const d = {
 					"user": "DarkTD",
 					"link": "https://www.youtube.com/watch?v=s822ghiuYjA",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "165hz"
 				},
 			],
 			"name": "ICE Carbon Diablo X",
