@@ -1778,6 +1778,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://youtu.be/k4eXholBBqk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Thanatophobia",
 			"author": "Artumanka and more [MagnusVN]",
