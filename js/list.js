@@ -461,6 +461,12 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "Hito73",
+					"link": "https://youtu.be/9j0TN-J29WA",
+					"percent": 63,
+					"hz": "60hz"
+				},
 			],
 			"name": "Cadrega Mode",
 			"author": "Pennutoh and TCTeam [mephiles175]",
@@ -709,8 +715,8 @@ const d = {
 				},
 				{
 					"user": "noeruchan",
-					"link": "https://www.youtube.com/watch?v=TVorV7m3GjM",
-					"percent": 79,
+					"link": "https://www.facebook.com/groups/geometrydashvietnam/permalink/1703302726527561/",
+					"percent": 89,
 					"hz": "Bypass"
 				},
 				{
@@ -1202,6 +1208,12 @@ const d = {
                                        "percent": 100,
                                        "hz": "Bypass"
                                 },
+				{
+                                       "user": "Aquatic",
+                                       "link": "https://youtu.be/LmusMqwlu5E",
+                                       "percent": 100,
+                                       "hz": "Bypass"
+                                },
 			],
 			"name": "The Flawless",
 			"author": "IIIRyanIII and more [CaustiX]",
@@ -1537,6 +1549,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "ItzTritiumVN",
+					"link": "https://youtu.be/7ALeBoVZDlg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Allegiance",
 			"author": "nikroplays [MagnusVN]",
@@ -1783,6 +1801,12 @@ const d = {
 					"link": "https://youtu.be/k4eXholBBqk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NgHoagAnh",
+					"link": "https://youtu.be/BkCgV3ctPbc",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Thanatophobia",
