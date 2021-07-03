@@ -524,6 +524,12 @@ const d = {
 					"percent": 81,
 					"hz": "240hz"
 				},
+				{
+					"user": "noeruchan",
+					"link": "https://youtu.be/_TeS5HX6o8Q",
+					"percent": 74,
+					"hz": "Bypass"
+				},
 			],
 			"name": "Auditory Breaker",
 			"author": "Manix648, Cyclic and LazerBlitz [CaustiX]",
@@ -966,6 +972,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=assiYVEbV0Q",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "DzuiSoSad",
+					"link": "https://m.youtube.com/watch?v=g3zIyC8R7Ks",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				
 			],
@@ -1593,7 +1605,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ZaikaCheems",
+					"user": "Zaika [GD]",
 					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1666,7 +1678,7 @@ const d = {
 					"hz": "Mobile"
 				},
                                 {
-					"user": "ZaikaCheems",
+					"user": "Zaika [GD]",
 					"link": "https://youtu.be/ZxQfRI2rCiQ",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1797,7 +1809,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ZaikaCheems",
+					"user": "Zaika [GD]",
 					"link": "https://youtu.be/k4eXholBBqk",
 					"percent": 100,
 					"hz": "Mobile"
