@@ -1833,6 +1833,12 @@ const d = {
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=sWPtt0bnUwM&t=7s",
+					"percent": 100,
+					"hz": "Bypass"
+				},
 			],
 			"name": "Cosmic Calamity",
 			"author": "Lumpy and more [Soulsilver Jr.]",
