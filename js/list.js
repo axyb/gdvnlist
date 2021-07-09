@@ -1295,6 +1295,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Zaika [GD]",
+					"link": "https://youtu.be/SLi93XRP5vI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Retention",
 			"author": "WOOGI1411 [mephiles175]",
