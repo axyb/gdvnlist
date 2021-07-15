@@ -1878,6 +1878,32 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Ultrasonic",
+			"author": "Viprin and more [Soulsilver Jr.]",
+			"more": "none",
+			"id": 8491232,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/ynAu-uJo-pg",
+			"key": 97
+		},         
+		/*=================================================================================*/	
+		{
+			"vids": [
+			],
+			"name": "Subterranean Animism",
+			"author": "EVW and more [Soulsilver Jr.]",
+			"more": "none",
+			"id": 34386347,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/g_6N7sWAQfs",
+			"key": 98
+		},         
+		/*=================================================================================*/	
+		{
+			"vids": [
 				{
 					"user": "HyperVN",
 					"link": "https://www.youtube.com/watch?v=Z-E_EfbVK_0",
@@ -1916,10 +1942,35 @@ const d = {
 			"pass": "=",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=dLgc42GL3VM",
-			"key" : 97
+			"key" : 99
 		},
 		/*=================================================================================*/
-	
+		{
+			"vids": [
+			],
+			"name": "Valor",
+			"author": "KrmaL and more [Soulsilver Jr.]",
+			"more": "none",
+			"id": 25540324,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtu.be/FqTe5tSwFbA",
+			"key": 100
+		},         
+		/*=================================================================================*/	
+		{
+			"vids": [
+			],
+			"name": "Pulsar",
+			"author": "Akari and Zhander [Soulsilver Jr.]",
+			"more": "none",
+			"id": 36099108,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=AVxi-0Ib7Vw",
+			"key": 101
+		},         
+		/*=================================================================================*/	
 	],
 	"version": [
 		1,
