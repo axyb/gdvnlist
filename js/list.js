@@ -1981,7 +1981,7 @@ const d = {
 			"pass": "Free Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=AVxi-0Ib7Vw",
-			"key": legacykey
+			"legacykey": 0
 
 		},         
 		/*=================================================================================*/	
