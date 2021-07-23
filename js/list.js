@@ -1264,6 +1264,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Korvak",
+					"link": "https://youtu.be/0RtwOulhPCE",
+					"percent": 100,
+					"hz": "Bypass"
+				
 			],
 			"name": "Uprise",
 			"author": "Blad3M [CaustiX]",
@@ -1608,11 +1614,17 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-				       "user": "Aquatic",
-				       "link": "https://www.youtube.com/watch?v=9NGaEPZEums",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
+					"user": "Aquatic",
+					"link": "https://www.youtube.com/watch?v=9NGaEPZEums&ab_channel=Aquatic",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NgHoangAnh",
+					"link": "https://youtu.be/h3oeReKMoSs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Excessive Compliment",
 			"author": "Pennutoh [MagnusVN]",
@@ -1751,6 +1763,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "ATTH",
+					"link": "https://youtu.be/M7URfmgua_g",
+					"percent": 100,
+					"hz": "Bypass"
+				},
 			],
 			"name": "ICE Carbon Diablo X",
 			"author": "Roadbose [CaustiX]",
@@ -1815,6 +1833,12 @@ const d = {
                                         "percent": 100,
                                         "hz": "Bypass"
                                 },
+				{
+                                        "user": "Spidebot",
+                                        "link": "https://youtu.be/hNYD78DUiOE",
+                                        "percent": 100,
+                                        "hz": "60hz"
+                                },
 			],	
 			"name": "Galactic Fragility",
 			"author": "TeamSmokeWeed [Soulsilver Jr.]",
@@ -1865,6 +1889,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ItzStarDust",
+					"link": "https://youtu.be/KzTGPei6GKs",
+					"percent": 100,
+					"hz": "Bypass"
+				},
 			],
 			"name": "Quest for Perfection",
 			"author": "LazerBlitz [MagnusVN]",
@@ -1878,6 +1908,11 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Korvak",
+					"link": "https://youtu.be/H8bdg-9pJHk",
+					"percent": 100,
+					"hz": "Bypass"
 			],
 			"name": "Ultrasonic",
 			"author": "Viprin and more [Soulsilver Jr.]",
@@ -1903,7 +1938,39 @@ const d = {
 		},         
 		/*=================================================================================*/	
 		{
-			"vids": [
+			"vids": [	
+				{
+					"user": "Hito73",
+					"link": "https://youtu.be/cVdIWbj-7wQ",
+					"percent": 100,
+					"hz": "Mobile
+				
+				{
+					"user": "NgHoangAnh",
+					"link": "https://youtu.be/TGASUgU3Ixs",
+					"percent": 100,
+					"hz": "Mobile
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=D5whP4RakuU",
+					"percent": 100,
+					"hz": "Bypass"
+				{
+					"user": "Longinus",
+					"link": "https://www.youtube.com/watch?v=M-n6F4UG9cY&t=47s",
+					"percent": 100,
+					"hz": "Bypass"
+				{
+					"user": "RunokaGD",
+					"link": "https://youtu.be/COJIgI3xoHA",
+					"percent": 100,
+					"hz": "Mobile"
+				{
+					"user": "Zaika [GD]",
+					"link": "https://youtu.be/aD3_U1s1wMU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				{
 					"user": "HyperVN",
 					"link": "https://www.youtube.com/watch?v=Z-E_EfbVK_0",
@@ -1960,6 +2027,12 @@ const d = {
 		/*=================================================================================*/	
 		{
 			"vids": [
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://youtu.be/99a5DE_QFHg",
+					"percent": 100,
+					"hz": "60hz"
 			],
 			"name": "Pulsar",
 			"author": "Akari and Zhander [Soulsilver Jr.]",
